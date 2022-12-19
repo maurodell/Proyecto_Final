@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<permisos>
+	<permiso codigo="11">
+		<codigoUsuario>1</codigoUsuario>
+		<codigoPermiso>2</codigoPermiso>
+	</permiso>
+</permisos>
